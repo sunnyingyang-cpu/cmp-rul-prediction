@@ -1,0 +1,12 @@
+# 设备剩余寿命（RUL）预测 · C-MAPSS
+# 运行环境：Python 3.10（本项目在该版本下验证通过）
+# 下列为已验证版本；使用 >= 下限，便于兼容更新的小版本
+torch>=2.5.1
+numpy>=2.0.1
+pandas>=2.3.3
+scikit-learn>=1.7.2
+matplotlib>=3.10.9
+tqdm>=4.70.0
+onnx>=1.22.0
+onnxruntime>=1.23.2
+flask>=3.1.3

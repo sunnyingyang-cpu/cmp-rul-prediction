@@ -1,0 +1,46 @@
+{
+  "subset": "FD001",
+  "n_train_engines": 100,
+  "n_train_cycles": 20631,
+  "n_test_engines": 100,
+  "test_rul_mean": 75.52,
+  "test_rul_std": 41.555620558475596,
+  "selected_features": [
+    "setting1",
+    "setting2",
+    "setting3",
+    "sensor2",
+    "sensor3",
+    "sensor4",
+    "sensor6",
+    "sensor7",
+    "sensor8",
+    "sensor9",
+    "sensor11",
+    "sensor12",
+    "sensor13",
+    "sensor14",
+    "sensor15",
+    "sensor17",
+    "sensor20",
+    "sensor21"
+  ],
+  "dropped_sensors": [
+    "sensor1",
+    "sensor5",
+    "sensor10",
+    "sensor16",
+    "sensor18",
+    "sensor19"
+  ],
+  "top_rul_correlated": {
+    "sensor11": 0.6962281014554187,
+    "sensor4": 0.6789482333860455,
+    "sensor12": 0.6719831036132925,
+    "sensor7": 0.6572226620548817,
+    "sensor15": 0.6426670441973742,
+    "sensor21": 0.6356620421802928,
+    "sensor20": 0.6294284994377329,
+    "sensor2": 0.606483974378336
+  }
+}

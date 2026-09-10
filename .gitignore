@@ -1,0 +1,23 @@
+# ---- 数据 / 权重 / 训练输出（不入库） ----
+datasets/
+runs/
+weights/
+*.pt
+*.onnx
+*.engine
+*.pkl
+*.npy
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ---- 系统 / 编辑器 ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+

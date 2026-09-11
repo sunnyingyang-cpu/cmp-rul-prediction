@@ -1,5 +1,7 @@
 # 设备故障预测 · 剩余寿命（RUL）估计 — C-MAPSS
 
+> 🌐 **[在线展示页](https://sunnyingyang-cpu.github.io/cmp-rul-prediction/)**
+
 > 基于 NASA C-MAPSS 涡轮发动机退化仿真数据，构建**剩余有用寿命（Remaining Useful Life, RUL）**&#x9884;测系统：  
 > 输入发动机多传感器时序，输出「还能安全运行多少个循环」，用于预测性维护（Predictive Maintenance）。
 >
